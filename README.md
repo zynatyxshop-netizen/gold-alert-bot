@@ -1,0 +1,2 @@
+# gold-alert-bot
+Awesome
